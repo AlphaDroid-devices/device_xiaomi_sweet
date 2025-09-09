@@ -17,6 +17,7 @@ TARGET_DISABLE_EPPE  := true
 $(call inherit-product, vendor/alpha/config/common_full_phone.mk)
 
 # Maintainer
+ALPHA_BUILD_TYPE := Official
 ALPHA_MAINTAINER := sweet_builds
 
 # Device config
